@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="panda_theme_vs_proj.87130a7a-45fc-495e-a20b-1b3fd0b643ad" Version="1.0" Language="en-US" Publisher="Company" />
+        <Identity Id="panda_theme_vs_proj.87130a7a-45fc-495e-a20b-1b3fd0b643ad" Version="1.0" Language="en-US" Publisher="0qinghao" />
         <DisplayName>panda_theme_vs_proj</DisplayName>
         <Description xml:space="preserve">Panda theme VSIX Project.</Description>
     </Metadata>
